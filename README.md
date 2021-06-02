@@ -27,7 +27,7 @@
 
 
 
-![Website](https://img.shields.io/badge/LearningIT-Website%20-blue?link=http://left&link=http://right)
+![Website](https://img.shields.io/badge/LearningIT-Website%20-blue?link=http://left&link=http://heise.de)
 
 
 - 🖥️ Website
