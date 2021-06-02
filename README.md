@@ -23,6 +23,12 @@
 ## Wo du mich finden kannst:
 <br>
 
+| Tables        | Are           | 
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      | 
+| zebra stripes | are neat      | 
+
 ![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCD-KC0lPTWaUMHBzYX9sYjQ?label=YouTube&style=social)
 
 
