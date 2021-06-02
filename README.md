@@ -22,35 +22,21 @@
 
 ## Wo du mich finden kannst:
 
-| Medium        | Link           | 
-| ------------- |:-------------| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      | 
-| zebra stripes | are neat      | 
-
-![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCD-KC0lPTWaUMHBzYX9sYjQ?label=YouTube&style=social)
-
-
-
-![Website](https://img.shields.io/badge/LearningIT-Website%20-blue?link=http://left&link=http://heise.de)
-
-
-- 🖥️ Website
-- XING
-- LinkedIn
-- FaceBook
-
-
-
-
-
-
-
+| Medium                                                                                                                        | Link           | 
+| -------------                                                                                                                 |:-------------| 
+| ![Mail](https://img.shields.io/badge/Mail-%20-blue)                                                                           | [Schreibe mir eine Mail!](mailto:philip@learning-it.io)     | 
+| ![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCD-KC0lPTWaUMHBzYX9sYjQ?label=YouTube&style=social)      | [Gehe auf den Kanal!](https://www.youtube.com/channel/UCD-KC0lPTWaUMHBzYX9sYjQ?sub_confirmation=1) | 
+| ![Website](https://img.shields.io/badge/LearningIT-Website%20-blue?link=http://left)                                          | [Besuche meine Website!](https://www.learning-it.io)       | 
+| ![XING](https://img.shields.io/badge/XING-%20-blue)                                                                           | [Adde mich auf XING!](https://www.xing.com/profile/Philip_Lorenz7/cv)      | 
+| ![LinkedIN](https://img.shields.io/badge/LinkedIn-%20-blue)                                                                   | [Adde mich auf LinkedIn!](https://www.linkedin.com/in/philip-lorenz-a8942a1aa/)      | 
+| ![Facebook](https://img.shields.io/badge/Facebook-%20-blue)                                                                   | [Adde mich auf FaceBook!](https://www.facebook.com/philip.lorenz.3)      | 
+| ![Discord](https://img.shields.io/badge/Discord-%20-blue)                                                                     | [Adde mich auf Discord!](https://discord.gg/5W7vbUYQDF)      | 
 
 
 
 <br>
-### Inhalt:
+
+## Inhalt:
 Jeder Ordner zum jeweiligen Kapitel enthält jeweils zwei Unterordner: Lektionen & Aufgaben 
 - Lektionen:
   - enthält den Code aus den Video-Lektionen
