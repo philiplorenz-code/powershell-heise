@@ -52,6 +52,8 @@ Jeder Ordner zum jeweiligen Kapitel enthält jeweils zwei Unterordner: Lektionen
    - Klick auf "Code"
    - "Download ZIP"
 
+<br>
+
 
 ### Wichtige Links und weiterführende Inhalte
-test
+- [PowerShell Best Practices](https://www.scriptrunner.com/en/blog/5-powershell-scripting-best-practices/)
