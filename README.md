@@ -13,16 +13,37 @@
 <tr><th scope='row'>Skills</th><td>PowerShell, Azure, VMware, Windows Server</td></tr>
 <tr><th scope='row'>Website</th><td>www.learning-it.io</td></tr>
 <tr><th scope='row'>YouTube</th><td>www.learning-it.io/youtube</td></tr>
-<tr><th scope='row'>Known As</th><td>LearningIT</td></tr>
+<tr><th scope='row'>Known As</th><td>Philip von LearningIT</td></tr>
 </tbody>
 </table>
 
-Kontaktmöglichkeiten:
-- Mail
-- Website
+<br>
+<br>
+
+## Wo du mich finden kannst:
+<br>
+
+![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCD-KC0lPTWaUMHBzYX9sYjQ?label=YouTube&style=social)
+
+
+
+![Website](https://img.shields.io/badge/LearningIT-Website%20-blue?link=http://left&link=http://right)
+
+
+- 🖥️ Website
 - XING
 - LinkedIn
 - FaceBook
+
+
+
+
+
+
+
+
+
+
 <br>
 ### Inhalt:
 Jeder Ordner zum jeweiligen Kapitel enthält jeweils zwei Unterordner: Lektionen & Aufgaben 
