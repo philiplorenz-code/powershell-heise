@@ -57,3 +57,5 @@ Jeder Ordner zum jeweiligen Kapitel enthält jeweils zwei Unterordner: Lektionen
 
 ### Wichtige Links und weiterführende Inhalte
 - [PowerShell Best Practices](https://www.scriptrunner.com/en/blog/5-powershell-scripting-best-practices/)
+- [Sehr gute Quelle für fortgeschrittene Techniken](https://learn-powershell.net)
+
